@@ -1,0 +1,17 @@
+C:\Users\Mr. YUNT\source\repos\RentACar\RentACar.Business\bin\Debug\net5.0\RentACar.Business.deps.json
+C:\Users\Mr. YUNT\source\repos\RentACar\RentACar.Business\bin\Debug\net5.0\RentACar.Business.dll
+C:\Users\Mr. YUNT\source\repos\RentACar\RentACar.Business\bin\Debug\net5.0\ref\RentACar.Business.dll
+C:\Users\Mr. YUNT\source\repos\RentACar\RentACar.Business\bin\Debug\net5.0\RentACar.Business.pdb
+C:\Users\Mr. YUNT\source\repos\RentACar\RentACar.Business\bin\Debug\net5.0\AppCore.dll
+C:\Users\Mr. YUNT\source\repos\RentACar\RentACar.Business\bin\Debug\net5.0\RentACar.DAL.dll
+C:\Users\Mr. YUNT\source\repos\RentACar\RentACar.Business\bin\Debug\net5.0\RentACar.DAL.pdb
+C:\Users\Mr. YUNT\source\repos\RentACar\RentACar.Business\bin\Debug\net5.0\AppCore.pdb
+C:\Users\Mr. YUNT\source\repos\RentACar\RentACar.Business\obj\Debug\net5.0\RentACar.Business.csproj.AssemblyReference.cache
+C:\Users\Mr. YUNT\source\repos\RentACar\RentACar.Business\obj\Debug\net5.0\RentACar.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr. YUNT\source\repos\RentACar\RentACar.Business\obj\Debug\net5.0\RentACar.Business.AssemblyInfoInputs.cache
+C:\Users\Mr. YUNT\source\repos\RentACar\RentACar.Business\obj\Debug\net5.0\RentACar.Business.AssemblyInfo.cs
+C:\Users\Mr. YUNT\source\repos\RentACar\RentACar.Business\obj\Debug\net5.0\RentACar.Business.csproj.CoreCompileInputs.cache
+C:\Users\Mr. YUNT\source\repos\RentACar\RentACar.Business\obj\Debug\net5.0\RentACar.Business.csproj.CopyComplete
+C:\Users\Mr. YUNT\source\repos\RentACar\RentACar.Business\obj\Debug\net5.0\RentACar.Business.dll
+C:\Users\Mr. YUNT\source\repos\RentACar\RentACar.Business\obj\Debug\net5.0\ref\RentACar.Business.dll
+C:\Users\Mr. YUNT\source\repos\RentACar\RentACar.Business\obj\Debug\net5.0\RentACar.Business.pdb
